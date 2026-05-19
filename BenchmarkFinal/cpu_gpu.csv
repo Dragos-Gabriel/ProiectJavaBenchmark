@@ -1,0 +1,9 @@
+Algorithm,InputSize,AverageTimeMs
+CPU,1000,1.4938
+GPU(simulated),1000,0.06252
+CPU,5000,0.25494
+GPU(simulated),5000,0.00806
+CPU,10000,1.0184
+GPU(simulated),10000,2.1887
+CPU,50000,4.36914
+GPU(simulated),50000,5.6889
